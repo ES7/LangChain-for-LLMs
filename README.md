@@ -1,4 +1,6 @@
 # LangChain-for-LLMs
 LangChain is a framework designed for developing applications powered by language models. It provides a set of tools and abstractions that make it easier to build complex applications that leverage the capabilities of large language models (LLMs) like OpenAI's GPT-4. LangChain is especially useful for tasks that require integrating language models with other systems, managing interactions, and handling the flow of data.
 
-1. 
+**`1. Model_Prompt_Parser.ipynb` :-** In this notebook we will see the models used in langchain, what are prompt templates, and what is parsing in langchain.
+
+**`2. Memory.ipynb` :-** In this notebook we will see the different ways to store the history of conversation in langchain.
