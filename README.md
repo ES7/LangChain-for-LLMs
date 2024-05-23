@@ -4,3 +4,5 @@ LangChain is a framework designed for developing applications powered by languag
 **`1. Model_Prompt_Parser.ipynb` :-** In this notebook we will see the models used in langchain, what are prompt templates, and what is parsing in langchain.
 
 **`2. Memory.ipynb` :-** In this notebook we will see the different ways to store the history of conversation in langchain.
+
+**`3. Chains.ipynb` :-** In this notebook we will see what are chains and its types and how to use it.
