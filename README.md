@@ -8,3 +8,5 @@ LangChain is a framework designed for developing applications powered by languag
 **`3. Chains.ipynb` :-** In this notebook we will see what are chains and its types and how to use it.
 
 **`4. QnA.ipynb` :-** In this notebook we will pass a document and ask questions to the langauge model via Chains, we will also see some methods to perform this task.
+
+**`5. Evaluation.ipynb` :-** In this notebook we will see how can we evaluate our code using LangChain.
